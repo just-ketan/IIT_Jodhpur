@@ -1,0 +1,23 @@
+
+
+## **3. Mensuration & Geometry**  
+### **Key Formulas:**  
+| Shape       | Area/Volume           | Key Theorems |  
+|------------|-----------------------|--------------|  
+| **Circle** | `A = πr²`, `C = 2πr`  | Tangent-Secant Theorem |  
+| **Triangle** | `A = ½bh`          | Pythagoras, Midpoint Theorem |  
+| **Cuboid** | `V = l×b×h`          | Diagonal = `√(l²+b²+h²)` |  
+| **Sphere** | `V = (4/3)πr³`       | Surface Area = `4πr²` |  
+
+### **Study Resources:**  
+- **Videos:**  
+  - [Khan Academy - Geometry](https://www.khanacademy.org/math/geometry)  
+  - [GATE Wallah - Mensuration (YouTube)](https://www.youtube.com/watch?v=...)  
+- **Books:**  
+  - *Plane Geometry* – S.L. Loney *(Classic Text)*  
+  - *GATE Engineering Mathematics* – ACE Academy  
+- **Practice:**  
+  - [GATE PYQs - Geometry](https://gateoverflow.in/questions/tagged/geometry)  
+  - [JEE Main Geometry Problems](https://jeemain.nta.nic.in/) *(Harder than GATE but good practice)*  
+
+---
