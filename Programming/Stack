@@ -1,1 +1,17 @@
 
+## **3. Stacks**  
+### **Key Concepts:**  
+- **LIFO (Last-In-First-Out)**  
+- **Operations:**  
+  - `push()`: O(1)  
+  - `pop()`: O(1)  
+  - `peek()`: O(1)  
+
+### **Python Implementation (Using Lists)**  
+```python
+stack = []
+stack.append(1)  # Push (O(1))
+stack.append(2)
+top = stack[-1]   # Peek (O(1))
+popped = stack.pop()  # Pop (O(1))
+```
