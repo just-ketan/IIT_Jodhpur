@@ -1,1 +1,29 @@
 
+
+## **2. Arrays**  
+### **Key Concepts:**  
+- Contiguous memory allocation.  
+- **Access:** O(1)  
+- **Insertion/Deletion (End):** O(1)  
+- **Insertion/Deletion (Middle):** O(n)  
+
+### **Python Code**  
+```python
+# Initialize
+arr = [1, 2, 3]
+
+# Insert at end (O(1))
+arr.append(4)  
+
+# Insert at index (O(n))
+arr.insert(1, 5)  
+
+# Delete by value (O(n))
+arr.remove(2)  
+
+# Slice (O(k))
+sub_arr = arr[1:3]  
+```
+
+---
+
