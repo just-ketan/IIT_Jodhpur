@@ -1,0 +1,35 @@
+
+
+## **2. Probability Distributions**
+### **A. Uniform Distribution**  
+- PDF/CDF, Mean, Variance  
+- Applications (e.g., quantization error)  
+
+### **B. Normal (Gaussian) Distribution**  
+- Standard Normal (Z-table), 68-95-99.7 Rule  
+- Central Limit Theorem (CLT)  
+
+### **C. Exponential Distribution**  
+- Memoryless property  
+- Applications (reliability engineering)  
+
+### **D. Poisson Distribution**  
+- PMF, Mean = Variance = λ  
+- Applications (arrival processes)  
+
+### **E. Binomial Distribution**  
+- PMF, Mean = *np*, Variance = *npq*  
+- Approximation to Normal/Poisson  
+
+### **Study Resources:**  
+- **Video Lectures:**  
+  - [StatQuest - Distributions Explained (YouTube)](https://www.youtube.com/c/joshstarmer)  
+  - [GATE Applied Course - Probability Distributions](https://www.youtube.com/watch?v=...)  
+- **Textbooks:**  
+  - *Introduction to Probability* – Joseph K. Blitzstein (Ch. 3-5)  
+  - *Engineering Mathematics* – GATE Academy Publications  
+- **Practice Problems:**  
+  - [GATE PYQs on Distributions](https://gateoverflow.in/questions/tagged/probability-distributions)  
+  - [Solved Examples from Hogg & Tanis](https://www.pearson.com/store/p/probability-and-statistical-inference/P100001672438/9780135189399)  
+
+---
