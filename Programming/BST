@@ -1,1 +1,17 @@
 
+
+## ** Binary Search Trees (BST)**  
+### **Key Concepts:**  
+- **Left < Root < Right**  
+- **Search:** O(log n) (Balanced) / O(n) (Worst)  
+- **Insert/Delete:** O(log n)  
+
+### **Python Implementation**  
+```python
+def search_bst(root, key):  # O(log n)
+    if not root or root.val == key:
+        return root
+    if key < root.val:
+        return search_bst(root.left, key)
+    return search_bst(root.right, key)
+```
