@@ -1,0 +1,22 @@
+## **3. Eigenvalues & Eigenvectors**
+### **Key Concepts:**
+- Definition & properties
+- Characteristic equation
+- Diagonalization of matrices
+- Cayley-Hamilton theorem
+- Applications in stability analysis & vibrations
+
+### **Study Resources:**
+- **Video Lectures:**  
+  - [3Blue1Brown - Eigenvectors Explained Visually](https://www.youtube.com/watch?v=PFDu9oVAE-g)  
+  - [NPTEL - Eigenvalues & Eigenvectors (IIT Madras)](https://nptel.ac.in/courses/111/105/111105078/)  
+
+- **Textbooks:**  
+  - *Linear Algebra Done Right* – Sheldon Axler  
+  - *Engineering Mathematics* – GATE Academy Publications  
+
+- **Practice Problems:**  
+  - [GATE Previous Year Questions](https://gateoverflow.in/questions/tagged/eigenvalues)  
+  - [Problems from Schaum’s Outline of Linear Algebra](https://www.mheducation.com/)  
+
+---
