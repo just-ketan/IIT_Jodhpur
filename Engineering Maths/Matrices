@@ -1,0 +1,123 @@
+Certainly! Below is a **structured study plan** with curated resources to help you master the mentioned topics for **GATE (Graduate Aptitude Test in Engineering)**. These resources include **free & paid materials**, **video lectures**, **practice problems**, and **reference books**.
+
+---
+
+## **1. Matrices & Determinants**
+### **Key Concepts:**
+- Types of matrices (symmetric, skew-symmetric, orthogonal, etc.)
+- Matrix operations (addition, multiplication, transpose, inverse)
+- Properties of determinants
+- Rank of a matrix
+- Cramer’s rule
+
+### **Study Resources:**
+- **Video Lectures:**  
+  - [Khan Academy - Matrices & Determinants](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)  
+  - [GATE Applied Course - Matrices (YouTube)](https://www.youtube.com/watch?v=...)
+  
+- **Textbooks:**  
+  - *Linear Algebra and Its Applications* – Gilbert Strang  
+  - *Higher Engineering Mathematics* – B.S. Grewal (Chapter on Matrices & Determinants)  
+
+- **Practice Problems:**  
+  - [GATE Overflow - Previous Year Questions](https://gateoverflow.in/)  
+  - [Problems from NCERT Class 12 Maths](https://ncert.nic.in/textbook.php)  
+
+---
+
+## **2. System of Linear Equations**
+### **Key Concepts:**
+- Homogeneous & non-homogeneous systems
+- Consistency conditions
+- Solution methods (Gaussian elimination, matrix inversion)
+- Applications in engineering problems
+
+### **Study Resources:**
+- **Video Lectures:**  
+  - [MIT OCW - Solving Ax = b](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)  
+  - [Unacademy GATE - Systems of Equations](https://unacademy.com/)  
+
+- **Textbooks:**  
+  - *Introduction to Linear Algebra* – Gilbert Strang (Chapter 2)  
+  - *Advanced Engineering Mathematics* – Erwin Kreyszig  
+
+- **Practice Problems:**  
+  - [GATE PYQs on Linear Systems](https://gateoverflow.in/search?q=linear+equations)  
+  - [Problems from IIT-JEE Archives](https://jeemain.nta.nic.in/)  
+
+---
+
+## **3. Eigenvalues & Eigenvectors**
+### **Key Concepts:**
+- Definition & properties
+- Characteristic equation
+- Diagonalization of matrices
+- Cayley-Hamilton theorem
+- Applications in stability analysis & vibrations
+
+### **Study Resources:**
+- **Video Lectures:**  
+  - [3Blue1Brown - Eigenvectors Explained Visually](https://www.youtube.com/watch?v=PFDu9oVAE-g)  
+  - [NPTEL - Eigenvalues & Eigenvectors (IIT Madras)](https://nptel.ac.in/courses/111/105/111105078/)  
+
+- **Textbooks:**  
+  - *Linear Algebra Done Right* – Sheldon Axler  
+  - *Engineering Mathematics* – GATE Academy Publications  
+
+- **Practice Problems:**  
+  - [GATE Previous Year Questions](https://gateoverflow.in/questions/tagged/eigenvalues)  
+  - [Problems from Schaum’s Outline of Linear Algebra](https://www.mheducation.com/)  
+
+---
+
+## **4. LU Decomposition**
+### **Key Concepts:**
+- LU factorization (Doolittle, Crout methods)
+- Solving linear systems using LU decomposition
+- Numerical stability & pivoting
+
+### **Study Resources:**
+- **Video Lectures:**  
+  - [Numerical Methods - LU Decomposition (YouTube)](https://www.youtube.com/watch?v=UlWcofkUDDU)  
+  - [GATE CS IT - LU Decomposition](https://www.youtube.com/watch?v=...)  
+
+- **Textbooks:**  
+  - *Numerical Linear Algebra* – Trefethen & Bau  
+  - *Numerical Methods for Engineers* – Steven Chapra  
+
+- **Practice Problems:**  
+  - [GATE Numerical Analysis Questions](https://gateoverflow.in/questions/tagged/numerical-methods)  
+  - [LU Decomposition Problems (MIT)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/assignments/)  
+
+---
+
+## **Additional Resources for GATE Preparation**
+1. **Mock Tests & PYQs:**  
+   - [Made Easy GATE Test Series](https://www.madeeasy.in)  
+   - [GATE Overflow (Community Solutions)](https://gateoverflow.in)  
+
+2. **Formula Sheets:**  
+   - [Quick Revision Notes for GATE Maths](https://drive.google.com/...) *(Search for GATE Maths Formula Sheets)*  
+
+3. **Doubt Clearing:**  
+   - [StackExchange - Mathematics](https://math.stackexchange.com/)  
+   - [GATE CS IT Discord Groups](https://discord.gg/gate)  
+
+---
+
+## **Study Plan (4-Week Schedule)**
+| Week | Topic | Tasks |
+|------|-------|-------|
+| **1** | Matrices & Determinants | Theory + NCERT Problems + GATE PYQs |
+| **2** | System of Linear Equations | Gaussian Elimination + GATE 10-year questions |
+| **3** | Eigenvalues & Eigenvectors | Diagonalization + Applied Problems |
+| **4** | LU Decomposition | Numerical Problems + Mock Test Revision |
+
+---
+
+### **Final Tips:**
+✔ **Focus on GATE PYQs** (most repeated questions).  
+✔ **Use Anki/Flashcards** for quick revision of formulas.  
+✔ **Join a study group** (e.g., Telegram/Discord for GATE Aspirants).  
+
+Would you like a **customized problem set** for self-assessment? Let me know how I can refine this further! 🚀
