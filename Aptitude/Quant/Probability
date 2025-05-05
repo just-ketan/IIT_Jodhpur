@@ -1,0 +1,19 @@
+
+## **4. Elementary Statistics & Probability**  
+### **Key Concepts:**  
+- **Mean, Median, Mode**  
+- **Standard Deviation (σ)** = `√(Σ(xᵢ - μ)²/N)`  
+- **Probability Rules:**  
+  - `P(A∪B) = P(A) + P(B) - P(A∩B)`  
+  - **Bayes’ Theorem**: `P(A|B) = [P(B|A)*P(A)] / P(B)`  
+
+### **Study Resources:**  
+- **Videos:**  
+  - [StatQuest - Probability (YouTube)](https://www.youtube.com/c/joshstarmer)  
+  - [NPTEL - Statistics (IIT Madras)](https://nptel.ac.in/courses/111/106/111106090/)  
+- **Books:**  
+  - *Probability & Statistics* – Schaum’s Outline  
+  - *Engineering Mathematics* – B.S. Grewal  
+- **Practice:**  
+  - [GATE PYQs - Probability](https://gateoverflow.in/questions/tagged/probability)  
+  - [MIT OCW Stats Problems](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/assignments/)  
