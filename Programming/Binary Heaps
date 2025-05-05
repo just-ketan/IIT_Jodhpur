@@ -1,1 +1,16 @@
 
+
+## ** Binary Heaps**  
+### **Key Concepts:**  
+- **Min-Heap:** Parent ≤ Children  
+- **Max-Heap:** Parent ≥ Children  
+- **Insert/Extract-Min:** O(log n)  
+
+### **Python Implementation (Using `heapq`)**  
+```python
+import heapq
+min_heap = []
+heapq.heappush(min_heap, 3)  # Insert (O(log n))
+heapq.heappush(min_heap, 1)
+min_val = heapq.heappop(min_heap)  # Extract-Min (O(log n))
+```
