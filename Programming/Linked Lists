@@ -1,1 +1,32 @@
 
+## ** Linked Lists**  
+### **Key Concepts:**  
+- **Singly Linked List:**  
+  - `insert_at_head()`: O(1)  
+  - `delete_at_head()`: O(1)  
+  - `search()`: O(n)  
+
+### **Python Implementation**  
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+class LinkedList:
+    def __init__(self):
+        self.head = None
+    
+    def insert_at_head(self, data):  # O(1)
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node
+    
+    def search(self, key):  # O(n)
+        curr = self.head
+        while curr:
+            if curr.data == key:
+                return True
+            curr = curr.next
+        return False
+```
