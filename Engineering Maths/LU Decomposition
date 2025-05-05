@@ -1,0 +1,20 @@
+## **4. LU Decomposition**
+### **Key Concepts:**
+- LU factorization (Doolittle, Crout methods)
+- Solving linear systems using LU decomposition
+- Numerical stability & pivoting
+
+### **Study Resources:**
+- **Video Lectures:**  
+  - [Numerical Methods - LU Decomposition (YouTube)](https://www.youtube.com/watch?v=UlWcofkUDDU)  
+  - [GATE CS IT - LU Decomposition](https://www.youtube.com/watch?v=...)  
+
+- **Textbooks:**  
+  - *Numerical Linear Algebra* – Trefethen & Bau  
+  - *Numerical Methods for Engineers* – Steven Chapra  
+
+- **Practice Problems:**  
+  - [GATE Numerical Analysis Questions](https://gateoverflow.in/questions/tagged/numerical-methods)  
+  - [LU Decomposition Problems (MIT)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/assignments/)  
+
+---
