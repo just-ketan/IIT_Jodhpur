@@ -1,1 +1,18 @@
 
+## ** Queues**  
+### **Key Concepts:**  
+- **FIFO (First-In-First-Out)**  
+- **Operations:**  
+  - `enqueue()`: O(1)  
+  - `dequeue()`: O(1)  
+
+### **Python Implementation (Using `deque`)**  
+```python
+from collections import deque
+queue = deque()
+queue.append(1)  # Enqueue (O(1))
+queue.append(2)
+front = queue[0]  # Peek (O(1))
+popped = queue.popleft()  # Dequeue (O(1))
+```
+
