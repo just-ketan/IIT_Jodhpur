@@ -1,0 +1,25 @@
+
+
+## **2. Numerical Computation & Estimation**  
+### **Key Topics:**  
+| Topic         | Key Formulas/Concepts |  
+|--------------|-----------------------|  
+| **Ratios**   | `a:b = a/b`, Proportion (`a/b = c/d`) |  
+| **Percentages** | `x% of y = (x/100)*y`, % Change = `(New-Old)/Old * 100` |  
+| **Exponents & Logs** | `a^m * a^n = a^(m+n)`, `log(ab) = log a + log b` |  
+| **Permutations & Combinations** | `nPr = n!/(n-r)!`, `nCr = n!/(r!(n-r)!)` |  
+| **Series**   | AP (`Sₙ = n/2[2a+(n-1)d]`), GP (`Sₙ = a(rⁿ-1)/(r-1)`) |  
+
+### **Study Resources:**  
+- **Videos:**  
+  - [3Blue1Brown - Logarithms (YouTube)](https://www.youtube.com/watch?v=zzu2POfYv0Y)  
+  - [Unacademy - P&C (GATE)](https://unacademy.com/)  
+- **Books:**  
+  - *Higher Algebra* – Hall & Knight *(For Series & P&C)*  
+  - *Quick Maths* – M. Tyra *(Shortcuts for GATE)*  
+- **Practice:**  
+  - [GATE PYQs - Numerical Computation](https://gateoverflow.in/questions/tagged/numerical-ability)  
+  - [CAT Permutations Problems (PDF)](https://www.mbacrystalball.com/blog/2015/07/06/permutations-combinations-formulas/)  
+
+---
+
