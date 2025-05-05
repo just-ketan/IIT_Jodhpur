@@ -1,1 +1,32 @@
 
+## **1. Recursion**  
+### **Key Concepts:**  
+- A function calling itself.  
+- **Base Case:** Terminates recursion.  
+- **Recursive Case:** Calls itself with modified inputs.  
+
+### **Python Code**  
+#### **Factorial (O(n) Time, O(n) Space)**  
+```python
+def factorial(n):
+    if n == 0:  # Base case
+        return 1
+    return n * factorial(n - 1)  # Recursive case
+```
+
+#### **Fibonacci (O(2ⁿ) Time, O(n) Space)**  
+```python
+def fibonacci(n):
+    if n <= 1:  # Base case
+        return n
+    return fibonacci(n - 1) + fibonacci(n - 2)  # Recursive case
+```
+
+#### **Tail Recursion Optimization (O(n) Time, O(1) Space)**  
+```python
+def factorial_tail(n, accumulator=1):
+    if n == 0:
+        return accumulator
+    return factorial_tail(n - 1, n * accumulator)  # Tail-recursive
+```
+
