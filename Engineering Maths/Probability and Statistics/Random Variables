@@ -1,0 +1,19 @@
+
+## **1. Random Variables (RVs)**
+### **Key Concepts:**  
+- **Discrete RVs** (PMF, CDF)  
+- **Continuous RVs** (PDF, CDF)  
+- Expectation, Variance, Moments  
+- Transformation of RVs  
+
+### **Study Resources:**  
+- **Video Lectures:**  
+  - [Khan Academy - Random Variables](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library)  
+  - [NPTEL - Probability & Statistics (IIT Kharagpur)](https://nptel.ac.in/courses/111/105/111105106/)  
+- **Textbooks:**  
+  - *Probability & Statistics for Engineers* – Ronald E. Walpole (Ch. 3-4)  
+  - *Higher Engineering Mathematics* – B.S. Grewal (Ch. on Probability)  
+- **Practice Problems:**  
+  - [GATE Overflow - RV PYQs](https://gateoverflow.in/questions/tagged/random-variables)  
+  - [MIT OCW Problem Sets](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/assignments/)  
+
