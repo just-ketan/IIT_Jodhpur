@@ -1,1 +1,21 @@
 
+
+## ** Sorting & Searching**  
+### **Sorting Algorithms**  
+| Algorithm | Time (Best) | Time (Worst) | Space |  
+|-----------|-------------|--------------|-------|  
+| **QuickSort** | O(n log n) | O(n²) | O(log n) |  
+| **MergeSort** | O(n log n) | O(n log n) | O(n) |  
+
+### **Python Implementation (QuickSort)**  
+```python
+def quicksort(arr):
+    if len(arr) <= 1:
+        return arr
+    pivot = arr[len(arr) // 2]
+    left = [x for x in arr if x < pivot]
+    middle = [x for x in arr if x == pivot]
+    right = [x for x in arr if x > pivot]
+    return quicksort(left) + middle + quicksort(right)
+```
+
