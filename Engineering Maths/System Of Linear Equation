@@ -1,0 +1,21 @@
+## **2. System of Linear Equations**
+### **Key Concepts:**
+- Homogeneous & non-homogeneous systems
+- Consistency conditions
+- Solution methods (Gaussian elimination, matrix inversion)
+- Applications in engineering problems
+
+### **Study Resources:**
+- **Video Lectures:**  
+  - [MIT OCW - Solving Ax = b](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)  
+  - [Unacademy GATE - Systems of Equations](https://unacademy.com/)  
+
+- **Textbooks:**  
+  - *Introduction to Linear Algebra* – Gilbert Strang (Chapter 2)  
+  - *Advanced Engineering Mathematics* – Erwin Kreyszig  
+
+- **Practice Problems:**  
+  - [GATE PYQs on Linear Systems](https://gateoverflow.in/search?q=linear+equations)  
+  - [Problems from IIT-JEE Archives](https://jeemain.nta.nic.in/)  
+
+---
