@@ -1,0 +1,25 @@
+
+
+## **1. Limits, Continuity & Differentiability**
+### **Key Concepts:**
+- **Limits:**  
+  - Definition, ε-δ definition, L'Hôpital's Rule  
+  - Standard limits (e.g., \(\lim_{x \to 0} \frac{\sin x}{x} = 1\))  
+- **Continuity:**  
+  - Definition, types of discontinuities  
+  - Intermediate Value Theorem (IVT)  
+- **Differentiability:**  
+  - Definition, relation with continuity  
+  - Left & right derivatives  
+
+### **Study Resources:**
+- **Video Lectures:**  
+  - [Khan Academy - Limits & Continuity](https://www.khanacademy.org/math/calculus-1)  
+  - [NPTEL - Calculus (IIT Madras)](https://nptel.ac.in/courses/111/106/111106094/)  
+- **Textbooks:**  
+  - *Thomas’ Calculus* – Pearson (Ch. 2 & 3)  
+  - *Higher Engineering Mathematics* – B.S. Grewal (Ch. on Calculus)  
+- **Practice Problems:**  
+  - [GATE Overflow - Limits & Continuity PYQs](https://gateoverflow.in/questions/tagged/limits)  
+  - [IIT-JEE Archives (Maths)](https://jeemain.nta.nic.in/)  
+
