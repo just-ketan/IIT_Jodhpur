@@ -1,1 +1,22 @@
 
+## ** Trees**  
+### **Key Concepts:**  
+- **Binary Tree:** Each node has ≤ 2 children.  
+- **Traversals:**  
+  - **Inorder (Left-Root-Right):** O(n)  
+  - **Preorder (Root-Left-Right):** O(n)  
+
+### **Python Implementation**  
+```python
+class TreeNode:
+    def __init__(self, val):
+        self.val = val
+        self.left = None
+        self.right = None
+
+def inorder(root):  # O(n)
+    if root:
+        inorder(root.left)
+        print(root.val)
+        inorder(root.right)
+```
